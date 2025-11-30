@@ -148,7 +148,7 @@ Repository initialized, architecture designed, landing page live.
 
 This is an active buildathon project for BlockDAG.
 
-**Live Frontend**: [View on Lovable](https://lovable.dev/projects/5198ae75-6cc8-46e8-be12-1767ffac320d)  
+**Live Frontend**: [View on Lovable](https://truce-wallet-hfu2.vercel.app)  
 **GitHub**: [Truce Wallet Repository](https://github.com/Toyin05/truce-block-ai)
 
 ---
