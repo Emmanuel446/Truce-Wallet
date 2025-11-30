@@ -149,7 +149,7 @@ Repository initialized, architecture designed, landing page live.
 This is an active buildathon project for BlockDAG.
 
 **Live Frontend**: [View Live Frontend](https://truce-wallet-hfu2.vercel.app)  
-**GitHub**: [Truce Wallet Repository](https://github.com/Toyin05/truce-block-ai)
+**GitHub**: [Truce Wallet Repository](Https://github.com/Toyin05/Truce-Wallet)
 
 ---
 
